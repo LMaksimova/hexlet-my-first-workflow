@@ -1,0 +1,6 @@
+name: Say Hello, World! Action
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    run: make say-hello
