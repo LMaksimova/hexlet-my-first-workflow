@@ -3,4 +3,5 @@ on: [push]
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
-    run: make say-hello
+    steps:
+      - run: make say-hello
