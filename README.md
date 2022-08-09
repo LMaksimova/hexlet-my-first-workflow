@@ -1,3 +1,2 @@
-[![Actions Status](https://github.com/LyudmilaMaksimova/frontend-project-lvl2/workflows/hexlet-my-first-workflow/badge.svg)](https://github.com/LyudmilaMaksimova/hexlet-my-first-workflow/actions/workflows/github-actions-demo.yml)
-
+[![GitHub Action](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](https://github.com/LyudmilaMaksimova/hexlet-my-first-workflow/actions)
 hexlet-my-first-workflow
